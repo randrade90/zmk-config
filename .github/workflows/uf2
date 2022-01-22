@@ -1,1 +1,0 @@
-west build --pristine -b nice_nano_v2 -- -DSHIELD=my_board
