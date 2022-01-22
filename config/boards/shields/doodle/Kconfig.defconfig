@@ -1,0 +1,6 @@
+if SHIELD_DOODLE
+
+config ZMK_KEYBOARD_NAME
+    default "Media Doodle"
+
+endif
